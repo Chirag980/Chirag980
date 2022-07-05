@@ -1,4 +1,4 @@
-
+### Hi there 👋, I'm Chirag Sahu
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" width="300"/>
@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
