@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:-->
 
-## About me:
+### About me:
 - 👉 Primary coding language: Python.
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning Data Structures and Algorithms, Web Development and Machine Learning.
@@ -38,6 +38,8 @@ Here are some ideas to get you started:-->
 
 
 <hr>
+
+### 🏁Github Stats :
 
 ![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=Chirag980&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
