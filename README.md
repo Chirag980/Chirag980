@@ -15,8 +15,8 @@ Here are some ideas to get you started:-->
 
 ## About me:
 - 👉 Primary coding language: Python.
-- 🔭 I’m currently working on Portfolio
-- 🌱 I’m currently learning Data Structures and Algorithms, Web Development and Machine Learning 
+- 🔭 I’m currently working on my Portfolio.
+- 🌱 I’m currently learning Data Structures and Algorithms, Web Development and Machine Learning.
 - 👯 I’m looking to collaborate on diffrent kinds of projects(DSA, Web development, Data Science/Machine Learning)
 - 💬 Ask me about anything, I'm happy to help. 
 - 📫 How to reach me: @mail: chiragsahu980@gmail.com
@@ -33,3 +33,7 @@ Here are some ideas to get you started:-->
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img width="26px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png"></code>
+
+
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag980)](https://github.com/anuraghazra/github-readme-stats)
