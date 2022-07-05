@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif)
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" width="100"/>
