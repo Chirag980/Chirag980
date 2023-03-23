@@ -14,7 +14,7 @@
 Here are some ideas to get you started:-->
 
 ### About me:
-- 👉 Primary coding language: Python.
+- 👉 Primary coding language: ASP.NET, Python.
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning Data Structures and Algorithms, Web Development and Machine Learning.
 - 👯 I’m looking to collaborate on diffrent kinds of projects(DSA, Web development, Data Science/Machine Learning)
@@ -27,6 +27,7 @@ Here are some ideas to get you started:-->
 
 ### Tools I work upon : 🛠
 
+<code><img width="26px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png](https://msatechnosoft.in/blog/wp-content/uploads/2018/09/asp.net-logo-MSA-Technosoft.png)"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
