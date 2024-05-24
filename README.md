@@ -16,7 +16,7 @@
 Here are some ideas to get you started:-->
 
 ### About me:
-- 👉 Primary coding language: ASP.NET, Python.
+- 👉 Primary coding language: ASP.NET, Dot Net Core, Entity Framework, SQL SERVER.
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning Data Structures and Algorithms, Web Development and Machine Learning.
 - 👯 I’m looking to collaborate on diffrent kinds of projects(DSA, Web development, Data Science/Machine Learning)
