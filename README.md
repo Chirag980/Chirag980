@@ -3,7 +3,7 @@
 <div id="header" align="left">
  <!-- <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" width="300"/>-->
   
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  width="300"/>
 </div>
 
 
