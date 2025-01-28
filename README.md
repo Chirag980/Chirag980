@@ -3,7 +3,9 @@
 <div id="header" align="left">
  <!-- <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" width="300"/>-->
   
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  width="300"/>
+   <!--<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  width="300"/>-->
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU5ODk4eDRhZnpmc3pyYXlscDJ6cjJleHd3aTQweDByenFiZGJ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  width="300"/>
 </div>
 
 
